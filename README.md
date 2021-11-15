@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @halghasra
-- 👀 I’m interested in technology and science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on
+- 👋 Hi, I’m Husain
+- 👀 I love everything about technology and science
+- 👨🏻‍💼 I am a Project Manager by profession
+- 👨🏻‍💻 I code Java, JavaScript & Python
+- 💎 Interested in Blockchain, FinTech & AI
 - 📫 How to reach me @DM, or discord @josein#0593
 
 <!---
