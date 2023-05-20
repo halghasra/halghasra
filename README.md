@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Husain
-- 👀 I love everything about technology and science
-- 👨🏻‍💼 I am a Project Manager by profession
-- 👨🏻‍💻 I code Java, JavaScript & Python
-- 💎 Interested in Blockchain, FinTech & AI
+- 👀 I love everything about science and technology
+- 👨🏻‍💼 I a Change Delivery Manager by profession, but I also write codes and build applications casually
+- 👨🏻‍💻 I code ~~Java, JavaScript & Python~~ everything :)
+- 💎 I research ethics for AI
 - 📫 How to reach me @DM, or discord @josein#0593
 
 <!---
